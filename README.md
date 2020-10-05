@@ -1,2 +1,2 @@
 # whatsapp-bot
-whatsapp automation
+ Whatsapp automated using twilio sandbox for effective and efficient communication between clients
